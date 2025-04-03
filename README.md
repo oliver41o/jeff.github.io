@@ -1,1 +1,1 @@
-//yes
+<!DOCTYPE html>
